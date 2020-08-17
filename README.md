@@ -22,7 +22,7 @@ Ordinal are categorical values in which the categories can be meaningfully order
 
 For nominal Values, examples of nominal values include:
 
-- Vehicle make (Citroen, Peugeot, ...)
+- Sports Car (Bugatti, Ferrari, ...)
 - Football Teams (APR FC, Rayon Sport, Arsenal, Real Madrid ...)
 
 
@@ -31,6 +31,6 @@ categorical Values can be alse coded as numbers when the data are recorded (e.g.
 
 
 
-## download dataset from Lending Club at kaggle datasets to work with  nominal categorical variables
+## download dataset from Lending Club at kaggle datasets to work with categorical variables
 
 ## dataset is available for free
