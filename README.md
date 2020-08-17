@@ -34,3 +34,5 @@ categorical Values can be alse coded as numbers when the data are recorded (e.g.
 ## download dataset from Lending Club at kaggle datasets to work with categorical variables
 
 ## dataset is available for free
+
+Source : https://www.kaggle.com/wordsforthewise/lending-club
